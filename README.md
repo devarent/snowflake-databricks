@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# snowflake-databricks
+
+<sub>Contoh dan catatan integrasi Snowflake dengan Databricks.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | snowflake-databricks |
+| Primary language | HTML |
+| Topics | analytics, data-engineering, databricks, html, snowflake, sql |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+snowflake-databricks is a hands-on repository focused on: Contoh dan catatan integrasi Snowflake dengan Databricks.. Primary language: HTML. Topics: analytics, data-engineering, databricks, html, snowflake, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
